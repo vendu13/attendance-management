@@ -1,0 +1,99 @@
+[27-Oct-2021 04:00:12 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home3/maestfut/public_html/Timesheet/index.php on line 96
+[27-Oct-2021 04:00:17 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home3/maestfut/public_html/Timesheet/index.php on line 97
+[27-Oct-2021 04:01:57 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home3/maestfut/public_html/Timesheet/index.php on line 97
+[27-Oct-2021 04:01:59 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home3/maestfut/public_html/Timesheet/index.php on line 97
+[27-Oct-2021 04:02:48 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home3/maestfut/public_html/Timesheet/index.php on line 97
+[27-Oct-2021 07:16:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/maestfut/public_html/Timesheet/index.php on line 2
+[27-Oct-2021 07:16:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/maestfut/public_html/Timesheet/index.php on line 2
+[27-Oct-2021 08:32:15 UTC] PHP Fatal error:  Cannot use [] for reading in /home3/maestfut/public_html/Timesheet/header.php on line 61
+[27-Oct-2021 08:32:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home3/maestfut/public_html/Timesheet/header.php on line 61
+[13-Jan-2022 04:56:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 67
+[13-Jan-2022 04:57:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 04:57:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/index.php on line 33
+[13-Jan-2022 05:33:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:33:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:34:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:35:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:35:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:35:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:35:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:37:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:38:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:38:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:38:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:39:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:39:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[13-Jan-2022 05:39:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 251
+[14-Jan-2022 04:01:58 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php:178
+Stack trace:
+#0 {main}
+  thrown in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 178
+[14-Jan-2022 04:02:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php:178
+Stack trace:
+#0 {main}
+  thrown in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 178
+[14-Jan-2022 06:13:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 352
+[14-Jan-2022 06:13:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/rupartbj/developerdeepika.com/attendance_management_system/add_timesheet.php on line 352

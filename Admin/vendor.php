@@ -1,0 +1,159 @@
+<?php include('header.php');
+
+if (isset($_GET['delete'])) {
+ 
+  $SelectData = mysqli_query($conn,"DELETE  FROM `signup` WHERE id='".$_GET['delete']."'");
+  echo '<script>alert("deleted SuccessFully..") window.location="?"</script>';
+}
+if(isset($_GET['tailor'])) {
+	$Detail="Tailor";
+	$SelectData = mysqli_query($conn,"SELECT * , signup.id as pID FROM `signup` INNER JOIN vendor_detail ON signup.id=vendor_detail.vendorID WHERE vendor_detail.shop_type=1");
+}
+
+elseif (isset($_GET['boutique'])) {
+	$Detail="Boutique";
+	$SelectData = mysqli_query($conn,"SELECT * , signup.id as pID FROM `signup` INNER JOIN vendor_detail ON signup.id=vendor_detail.vendorID WHERE vendor_detail.shop_type=2");
+}
+elseif (isset($_GET['loundary'])) {
+	$Detail="Loundary";
+	$SelectData = mysqli_query($conn,"SELECT * , signup.id as pID FROM `signup` INNER JOIN vendor_detail ON signup.id=vendor_detail.vendorID WHERE vendor_detail.shop_type=3");
+}
+
+
+
+?>
+
+    <!-- BEGIN: Content-->
+    <div class="app-content content">
+      <div class="content-overlay"></div>
+      <div class="content-wrapper">
+        <div class="content-header row">
+          <div class="content-header-left col-12 mb-2 mt-1">
+            <div class="breadcrumbs-top">
+              <h5 class="content-header-title float-left pr-1 mb-0">All User</h5>
+              <div class="breadcrumb-wrapper d-none d-sm-block">
+                <ol class="breadcrumb p-0 mb-0 pl-1">
+                  <li class="breadcrumb-item"><a href="index.html"><i class="bx bx-home-alt"></i></a>
+                  </li>
+                  <li class="breadcrumb-item active">User
+                  </li>
+                </ol>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="content-body"><div class="row">
+  <div class="col-12">
+   <!--  <p>
+      Read full documnetation
+      <a href="https://datatables.net/" target="_blank">here</a>
+    </p> -->
+  </div>
+</div>
+<!-- Zero configuration table -->
+<section id="basic-datatable">
+  <div class="row">
+    <div class="col-12">
+      <div class="card">
+        <div class="card-header">
+          <h4 class="card-title">All Data</h4>
+        </div>
+        <div class="card-body card-dashboard">
+          <!-- <p class="card-text">
+            DataTables has most features enabled by default, so all you need
+            to do to use it with your own tables is to call the construction
+            function: $().DataTable();.
+          </p> -->
+          <div class="table-responsive">
+            <table class="table zero-configuration">
+              <thead>
+                <tr>
+                  <th>Sr</th>
+                  <th>Name</th>
+                  <th>Email</th>
+                  <th>Status</th>
+                  <th>Action</th>
+                  
+                </tr>
+              </thead>
+              <tbody>
+                <?php
+              $number = 1;
+              while($DataFetch = mysqli_fetch_assoc($SelectData))
+              {
+              ?>
+              <tr>
+                <td><?php echo $number++; ?></td>
+                <td><?php echo $DataFetch['name'];?></td>
+                <td><?php echo $DataFetch['email'];?></td>
+                <td><?php if($DataFetch['status']==0){
+                  echo '<span class="btn btn-success">Active</span>';
+                }
+                elseif($DataFetch['status']==1)
+                {
+                  echo '<span class="btn btn-primary">Inactive</span>';
+                }
+                else
+                {
+                  echo '<span class="btn btn-danger">Blocked</span>';
+                }
+
+                ?></td>
+                <!-- <td><?php echo $DataFetch['added_on'];?></td> -->
+                <td>
+                  <a  href="vendor_detail.php?view=<?php echo $DataFetch['pID'];?>" class="btn btn-warning"><i class="bx bx-show-alt"></i></a>
+                  <a href="edit_user.php?edit=<?php echo $DataFetch['pID'];?>" class="btn btn-primary"><i class="bx bxs-edit"></i></a>
+                  <a onclick="return confirm('Are You Sure..')" href="?delete=<?php echo $DataFetch['pID'];?>" class="btn btn-danger"><i class="bx bxs-trash-alt"></i></a>
+
+                </td>
+
+              </tr>
+              <?php
+              }
+              ?>
+               
+              </tbody>
+              <tfoot>
+                <tr>
+                  <th>Sr</th>
+                  <th>Name</th>
+                  <th>Email</th>
+                  <th>Status</th>
+                  <th>Action</th>
+                  
+                </tr>
+              </tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--/ Zero configuration table -->
+<!-- Row grouping -->
+
+<!-- Row grouping -->
+
+<!-- Complex headers table -->
+
+<!--/ Complex headers table -->
+
+<!-- Add rows table -->
+
+<!--/ Add rows table -->
+
+<!-- Column selectors with Export Options and print table -->
+
+<!-- Column selectors with Export Options and print table -->
+
+<!-- Scroll - horizontal and vertical table -->
+
+<!--/ Scroll - horizontal and vertical table -->
+
+        </div>
+      </div>
+    </div>
+    <!-- END: Content-->
+
+<?php include'footer.php';?>
